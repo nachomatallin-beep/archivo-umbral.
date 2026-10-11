@@ -1,11 +1,9 @@
-# Publicación
+# ARCHIVO UMBRAL — Web pública
 
-Repositorio creado como `archivo-umbral.` (con punto final). Se recomienda renombrar a `archivo-umbral` desde Settings → General antes de compartir la web; después habrá que actualizar las URLs absolutas en index.html y README.md.
+Juega aquí: https://archivo-umbral.onrender.com/
 
-Para activar GitHub Pages:
-1. Settings → Pages.
-2. Source: Deploy from a branch.
-3. Branch: main; folder: /(root).
-4. Save. Espera a que GitHub Pages muestre la URL publicada.
+Código fuente: https://github.com/nachomatallin-beep/archivo-umbral.
 
-Es una web estática; no se necesita servidor ni base de datos.
+Sitio estático enlazado con Render. Los cambios en la rama main se despliegan automáticamente.
+
+Nota: El repositorio original se creó con un punto final en su nombre. Si se renombra, revisar la URL del repositorio en Render.
